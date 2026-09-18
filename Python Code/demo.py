@@ -1,1 +1,0 @@
-##Write basic python code and build logical thinking skills.
